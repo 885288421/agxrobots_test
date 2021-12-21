@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package>
+  <name>agxrobots_test</name>
+  <version>0.0.1</version>
+  <description>The package for agxrobots</description>
+
+  <maintainer email="tang___xi@163.com">tangxi</maintainer>
+
+  <license>BSD</license>
+
+  <author email="tang___xi@163.com">tangxi</author>
+
+  <url type="website">http://ros.org/wiki/agxrobots_test</url>
+  <url type="repository">https://github.com/885288421/agxrobots_test</url>
+  <url type="bugtracker">https://github.com/885288421/agxrobots_test/issues</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>async_port</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>urdf</build_depend>
+  <build_depend>xacro</build_depend>
+  <build_export_depend>std_msgs</build_export_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <build_export_depend>urdf</build_export_depend>
+  <build_export_depend>xacro</build_export_depend>
+  <run_depend>async_port</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>controller_manager</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>topic_tools</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>urdf</exec_depend>
+  <exec_depend>xacro</exec_depend>
+
+</package>

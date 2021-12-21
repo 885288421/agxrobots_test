@@ -1,2 +1,2 @@
-# agxrobots_test-
-ros package for  885288421/agxrobots_test 
+# agxrobots_test
+test ros package for agxrobots
