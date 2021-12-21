@@ -34,6 +34,8 @@
   <run_depend>rospy</run_depend>
   <run_depend>std_msgs</run_depend>
   <run_depend>urdf</run_depend>
-  <run_depend>xacro</exec_depend>
+  <run_depend>xacro</run_depend>
 
+  <export>
+  </export>
 </package>
