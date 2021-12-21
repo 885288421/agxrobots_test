@@ -31,7 +31,7 @@
   <!-- The *depend tags are used to specify dependencies -->
   <!-- Dependencies can be catkin packages or system dependencies -->
   <!-- Examples: -->
-  <!-- Use depend as a shortcut for packages that are both build and exec dependencies -->
+  <!-- Use depend as a shortcut for packages that are both build and run dependencies -->
   <!--   <depend>roscpp</depend> -->
   <!--   Note that this is equivalent to the following: -->
   <!--   <build_depend>roscpp</build_depend> -->
@@ -51,10 +51,8 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>urdf</build_depend>
   <build_depend>xacro</build_depend>
-  <build_export_depend>urdf</build_export_depend>
-  <build_export_depend>xacro</build_export_depend>
-  <exec_depend>urdf</exec_depend>
-  <exec_depend>xacro</exec_depend>
+  <run_depend>urdf</run_depend>
+  <run_depend>xacro</run_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
