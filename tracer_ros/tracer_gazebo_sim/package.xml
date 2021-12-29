@@ -9,9 +9,9 @@
 
   <license>BSD</license>
 
-  <url type="website">http://ros.org/wiki/tracer_gazebo</url>
-  <url type="bugtracker">https://github.com/husky/husky_simulator/issues</url>
-  <url type="repository">https://github.com/westonrobot/tracer_ros</url>
+  <url type="website">https://github.com/agilexrobotics</url>
+  <url type="bugtracker">https://github.com/agilexrobotics/tracer_ros/issues</url>
+  <url type="repository">https://github.com/agilexrobotics/tracer_ros</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roslaunch</build_depend>
