@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>tracer_gazebo_sim</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>AgileX Tracer 2.0 Simulator bringup</description>
 
   <author email="ruixiang.du@westonrobot.com">Ruixiang Du</author>
